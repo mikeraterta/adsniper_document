@@ -1,6 +1,6 @@
 # Privacy Policy for AdSniper
 
-> 07/11/2024
+> 25/12/2024
 
 At AdSniper, we are committed to protecting your privacy and ensuring that your personal information is handled with the utmost care. This Privacy Policy outlines how we collect, use, and store your information, as well as your rights regarding your data. By using AdSniper, you agree to the practices outlined in this policy.
 
